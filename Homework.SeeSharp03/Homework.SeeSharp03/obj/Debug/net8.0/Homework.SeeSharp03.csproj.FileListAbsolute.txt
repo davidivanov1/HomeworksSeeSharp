@@ -1,0 +1,14 @@
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\bin\Debug\net8.0\Homework.SeeSharp03.exe
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\bin\Debug\net8.0\Homework.SeeSharp03.deps.json
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\bin\Debug\net8.0\Homework.SeeSharp03.runtimeconfig.json
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\bin\Debug\net8.0\Homework.SeeSharp03.dll
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\bin\Debug\net8.0\Homework.SeeSharp03.pdb
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.AssemblyInfoInputs.cache
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.AssemblyInfo.cs
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.csproj.CoreCompileInputs.cache
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.dll
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\refint\Homework.SeeSharp03.dll
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.pdb
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\Homework.SeeSharp03.genruntimeconfig.cache
+C:\project\Homework.SeeSharp03\Homework.SeeSharp03\obj\Debug\net8.0\ref\Homework.SeeSharp03.dll
